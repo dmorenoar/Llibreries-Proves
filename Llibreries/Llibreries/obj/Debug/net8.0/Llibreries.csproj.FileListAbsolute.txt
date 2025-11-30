@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\bin\Debug\net8.0\Llibreries.exe
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\bin\Debug\net8.0\Llibreries.deps.json
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\bin\Debug\net8.0\Llibreries.runtimeconfig.json
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\bin\Debug\net8.0\Llibreries.dll
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\bin\Debug\net8.0\Llibreries.pdb
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.AssemblyInfo.cs
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.dll
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\refint\Llibreries.dll
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.pdb
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.genruntimeconfig.cache
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\ref\Llibreries.dll
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\bin\Debug\net8.0\Utils.dll
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Llibreries\Llibreries\Llibreries\obj\Debug\net8.0\Llibreries.csproj.Up2Date
